@@ -3,3 +3,5 @@ datasets/
 models/
 scripts/
 *.pyc
+selective_search
+*.npz
